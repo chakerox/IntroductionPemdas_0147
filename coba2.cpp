@@ -5,4 +5,7 @@ int main(){ //mulai
     // langkah2
     cout << "Masukan Panjang = ";
     cin >> p;
+    // langkah3
+    cout << "Masukan Lebar = ";
+    cin >> l;
 } // selesai
