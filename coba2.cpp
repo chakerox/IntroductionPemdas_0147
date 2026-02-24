@@ -10,4 +10,7 @@ int main(){ //mulai
     cin >> l;
     // langkah4
     luas = p * l;
+     // langkah5
+    cout << "Hasilnya = " << luas << endl;
+    cout << "Terimakasih ";
 } // selesai
